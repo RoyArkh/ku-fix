@@ -6,7 +6,7 @@ This Chrome extension automatically converts any links on **https://learn.hub.ku
 
 ## 🚀 Installation
 
-Follow these steps to install the extesion:
+Follow these steps to install the extesion in 2 minutes:
 
 ### 1. Download the project
 Clone or download this repository to your computer from this page. Click on "Code" and then "Download ZIP".
