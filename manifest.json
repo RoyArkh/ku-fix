@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "ku-fixed",
+  "version": "1.0",
+  "description": "Makes it so that you don't have to worry about accidentally installing the whole learnhub anymore. \n By R. A.",
+  "content_scripts": [
+    {
+      "matches": ["https://learn.hub.ku.edu.tr/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
